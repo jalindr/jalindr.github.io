@@ -1,0 +1,14 @@
+# Site settings
+title: jalindr.in
+email: jalindr@live.in
+baseurl: ""
+url: "https://jalindr.github.io"
+github_username: jalindr
+# Build settings
+markdown: kramdown
+
+
+# Third-party services
+# just leave someone empty to disable it
+#google_analytics: 
+#disqus_shortname: 
