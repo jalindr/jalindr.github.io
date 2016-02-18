@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: jalindr
+author: jalinder jag
+description: > # this means to ignore newlines until "baseurl:"
+  Created with jekyll.
+  Hosted on github.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jalindr.github.io/" # the base hostname & protocol for your site
+#permalink: /:year/:month/:day/:title/
+permalink: /:categories/:title/
+paginate: 6
+paginate_path: "/page/:num/"
+twitter_username: jalindr
+github_username:  jalindr
+email: jalind3r at gmail dot com
+gems: [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+google_analytics: UA-73655797-1
