@@ -1,200 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jalindr</title>
+    <title>jalindr.</title>
     <description>Created with jekyll. Hosted on github.
 </description>
     <link>https://jalindr.github.io//</link>
     <atom:link href="https://jalindr.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Feb 2016 18:35:54 +0530</pubDate>
-    <lastBuildDate>Thu, 18 Feb 2016 18:35:54 +0530</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 18:39:11 +0530</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 18:39:11 +0530</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
-    
-      <item>
-        <title>Resume</title>
-        <description>&lt;p&gt;&lt;strong&gt;JALINDER JAGTAP:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#074;&amp;#097;&amp;#108;&amp;#105;&amp;#110;&amp;#100;&amp;#051;&amp;#114;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#074;&amp;#097;&amp;#108;&amp;#105;&amp;#110;&amp;#100;&amp;#051;&amp;#114;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;,&lt;/p&gt;
-
-&lt;p&gt;Web: Jalindr.github.io Mobile: 9773797147&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Experience Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A dynamic individual with over 3.5 years of progressive IT experience with Linux, Windows, Networking, IT Security and Wireless Networking. Can offer a diverse and eclectic background in system administration, consulting, customer and internal help desk support. Experience with Windows, RedHat, CentOs based deployments. &lt;strong&gt;Certifications&lt;/strong&gt; - Certified Information Security Consultant (CISC), RHCSS-RH423, RHCSS- RH413, RHCE, Cisco Certified Network Associate (CCNA).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Experience Detail:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SCIT Consultrainers,&lt;/strong&gt; Navi Mumbai&lt;/p&gt;
-
-&lt;p&gt;System Administrator, Dec 2014.&lt;/p&gt;
-
-&lt;p&gt;SCIT Consultrainers is a Pune based open source solutions provider. Clientele includes ISP, Research and Development Labs, Data centers, TechStartups. I worked with different roles, system administrator, Tech coordinator and as developer.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Configured and administrated FreeBSD based PFsense firewalls, ELK Stack to log incidence and network usage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Supported senior network engineer in planning and implementing wireless network security protocols and technologies. Hands on experience with UBNT wireless products, UBNT Edge Router, designed and implemented mesh networks, and point-to-point and point-to-multipoint topologies.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Handle responsibilities of regular maintenance of wireless network systems like periodic system testing and software upgrades, firmware upgrades.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Designed centralized log server with ELK Stack (Elasticsearch, Logstash, Kibana) with an ability to correlate system events from multiple servers, network equipment’s and IDS.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hands on experience with Snort IDS, implemented it wrote rules and configured new rules using PulledFork&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Administered and managed all aspect of technical training and strategy activities. Skilled in coordinating, planning and supporting administrative functions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Improved the marketing department’s ability to reach potential customers by designing and building email and web services.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Compix Systems &amp;amp; Solutions&lt;/strong&gt;, Mumbai-Pune&lt;/p&gt;
-
-&lt;p&gt;Senior Engineer, Nov 2012&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Installation, Configuration, and Administration of RHEL and CentOS Servers. Including client setup, networking, installations of OS, services, Server hardening. On Open source software as well as Proprietary software.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Involved in all Planning, Architecture, and System Admin aspects of Linux Administration.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Applied patches on all Linux Boxes from common repository using RPM &amp;amp; YUM.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Configured and administrated Postfix, Dovecot, Squirrel mail, and BIND, DNS, NFS, SQUID, NIS and Samba services in Linux.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;File system Administration- Installation, Setting up Disk Quota configuration and troubleshoot of  Backup services that includes daily, weekly and monthly back up and restoration of backed up data.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Installation, configuration and implementation of Samba service on LINUX based systems, configuring windows clients to communicate with Linux.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Monitor Linux Server for CPU utilization, Memory Utilization and Disk Utilization for performance monitoring, Creating Central based LOG server.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Setup NFS file systems and shared them to clients.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;St. John freight systems&lt;/strong&gt;, Navi Mumbai&lt;/p&gt;
-
-&lt;p&gt;Freelance IT engineer, Jan 2010 – 2013&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Managed vendor relations. Analyzed client hardware/software needs and presented solutions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Directed and provided desktop support for Windows XP, Windows7 and Ubuntu consisting of over 100 PCs at 3 facilities.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create, maintain and evaluate documentation, i.e. backup procedures, software and hardware lists, proper naming convention and proper IP address&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Monitor system performance, troubleshoot hardware and software problems, install and maintain system and windows applications&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- --&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Installation and Troubleshooting of hardware/software issues of various Printers, Scanners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- --&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Provide hardware support for IBM/Toshiba Laptops, IBM/Compaq Desktops, and HP Printers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Wings InfoTech&lt;/strong&gt;, Mumbai&lt;/p&gt;
-
-&lt;p&gt;System Engineer, Dec 2011 - Aug 2012&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Installing WindowsXP, Windows Vista, Red Hat Linux, Win 2000, Win 2003&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Installing the device drivers for all the external and internal devices. Troubleshooting the PC Assembling, hardware Components Installations and Software Installations. BIOS Configuration, Hard disks, CD-ROM Drives, NIC cards, Modems Networking, Crimping RJ45 Connectors&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Configuration of Email Client’s Outlook, Thunder Bird&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Academic Qualifications:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Certified Information Security Consultant (CISC), IIS Security.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;RHCSS RH423 Directory Services and Authentication, RH413 Server Hardening from Vibrant Computers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;RHCE from CMS computers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cisco Certified Network Associate (CCNA).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;B.E. in Computer Engineering from Mumbai University with 66.33%.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Diploma in Computer Engineering from Vasantdada Patil college of Engineering with 63.67%.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Visual Basic, HTML, CSS, CMS, Python, Shell Scripting.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;**Freelancing Work Experience: **&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Content management system: Drupal, Wordpress, PhpBB.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Programming: HTML, CSS, JQuery, Shell Scripting, Python.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Personal Profile:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Name: Jalinder P. Jagtap.&lt;/p&gt;
-
-  &lt;p&gt;DOB: 08-11-1986.&lt;/p&gt;
-
-  &lt;p&gt;Address: Room no 203,&lt;/p&gt;
-
-  &lt;p&gt;Bldg. 4, B-wing, Shubham complex,&lt;/p&gt;
-
-  &lt;p&gt;Sec: 8, Plot no: 23, Kamothe,&lt;/p&gt;
-
-  &lt;p&gt;Navi Mumbai, Pin.410206.&lt;/p&gt;
-
-  &lt;blockquote&gt;
-    &lt;p&gt;Rev.2.6_Jan16&lt;/p&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 16 Feb 2016 00:00:00 +0530</pubDate>
-        <link>https://jalindr.github.io//Resume/</link>
-        <guid isPermaLink="true">https://jalindr.github.io//Resume/</guid>
-        
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -228,11 +42,16 @@ so that you can concentrate on the content of your blog.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
-&lt;p&gt;## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6&lt;/p&gt;
+
+&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;header-5&quot;&gt;Header 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;header-6&quot;&gt;Header 6&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;list item 1&lt;/li&gt;
