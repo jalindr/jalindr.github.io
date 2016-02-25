@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+
+
+
 ![]({{site.baseurl}}/images/bagad-tutari.jpg)
 
 <hr>
