@@ -148,9 +148,11 @@ pre {
  */
 .site-header {
   width: 100%;
-  position: fixed; }
+  position: fixed; 
+  ;}
   .site-header > .wrapper {
     background: #fff;
+	opacity: 0.90;
   }
   .site-header.sticky > .wrapper > .site-title,
   .site-header.sticky > .wrapper > .site-nav {
@@ -648,3 +650,16 @@ hr {
     position:relative;
     display:block;
 }
+
+
+/* 
+		jalinder
+ */
+ 
+ .contacticon {
+  font-size: 60px;
+  display: block;
+  margin: 10px; }
+
+.center {
+  text-align: center; }
