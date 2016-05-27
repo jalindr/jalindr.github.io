@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jalindr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jalindr.github.io
+  * I am jalindr (https://keybase.io/jalindr) on keybase.
+  * I have a public key with fingerprint 2946 0024 BC58 A67A 5FE9  EF57 EFF6 4604 7F63 F1D5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f2a3c14c768aa59a4b424e1c5956e0677f35a1a2df71527282497ae34ac220c10a",
+            "fingerprint": "29460024bc58a67a5fe9ef57eff646047f63f1d5",
+            "host": "keybase.io",
+            "key_id": "eff646047f63f1d5",
+            "kid": "0101f2a3c14c768aa59a4b424e1c5956e0677f35a1a2df71527282497ae34ac220c10a",
+            "uid": "02f11a41ff1d495b44997019b1a10719",
+            "username": "jalindr"
+        },
+        "service": {
+            "hostname": "jalindr.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1464336678,
+    "expire_in": 157680000,
+    "prev": "bb080f9cc8b9d3b625b941f9bc858e99875a7e2b91daf84c18411350fd61c7f5",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSFRBGN5NDW9FgiR00TxGWaxy5pw5l9kslRSjMDACDaxt5pyZ9aTu
+rrvHVVOxC0FGPXSBUqMsgugiBWXRhbISSSSMSjSDKLBIQqWHeiiI5nR5CHpsXob5
+/+/7/u//mP45Ma5E99feS1vilxZnuYcedNW7yte5lzULJGg2Cd5moZr+vGiNSSO2
+r9oyBa8gAhEwCcsGgIam6hgrCEMCJUiBoSBFpaKqaUxWMMCSyTSgSJqkSxBpmMoQ
+G5IkGkDEgkdgVsBPw6GwFbC5rISgKooSJIaiY1XDCqOIMkWjjKm8AzWmygyYCidW
+BSMOg5sjOEJzrSCv8Yfvp71/4P+z7/pfchIDAEPA+BCIFAIhQpoIEAEYiBpADjBC
+wwFcSzl6B66xAmZYaPUIvBi1DOrk6izyNyDXb9lV9eTXTqFw0A4awRrerrLtUMTr
+0O2mkINvoMT3W8lHOJNnyRlRGo5YwYDgBRxp2JYjDaAKZVlVNd0j0MaQFaY+y0Eo
+PASRH2cOjXJJQkRdZMgwdIJMmaiSQhDfDxFDV3SKkK4pWKMSQcDETIcG0CEAsiIy
+UwWGxpykI7QuEBS8MreJ/VwyYvkD2K4PU6H1YV9lrMud6JodN8v5Y67EhHl/fl5y
+WbxraPv608WxevKgklBQMsyejGul0+PxA/3nRu4uS5p+2z126MWZnN2DNatfxl/t
+9iclHXw+kTw2dufkx4151ydayivGu2/sS0lf8a13pum1T0+w3g2acSNPKyerP3Qs
+eLy/40hp0YA7tS1vetOiPS0XSc6nlM6VUc/Ba5u3FnePLt85euDYzVcXPn+5d7bn
+eNX3/ITtRzNTZ9Lyy+Z68q6NPitKe4SyOo6Jqdkl5/eWLLzclf6+LWtXRvpENPvW
+/MPbTsTdPt+5OD+ttacsrbZwecOAHB0dF95UqP7C7KlHk97czjV1p9rvTBUPN/ZN
+ZRQ9fb62PWZbZun9JNZVsuH6FSasQgVLfgD3zDaT
+=HfeS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jalindr
+
+==================================================================
