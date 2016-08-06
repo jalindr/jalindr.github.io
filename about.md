@@ -14,7 +14,7 @@ permalink: /about/
 A short list of things i play with, things i like and things i like to wtite about. 
 			follow me on [twitter](https://twitter.com/jalindr) 
 			fork me on [gitHub](https://github.com/{{site.github_username}}),
-			see things i capture on [flickr](https://flickr.com).
+			see things i capture on [flickr](https://www.flickr.com/photos/jalind3r/albums).
 			
 
 <span class="contacticon center">
