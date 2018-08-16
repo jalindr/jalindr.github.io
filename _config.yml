@@ -9,7 +9,7 @@
 title: jalindr
 author: jalinder jagtap
 description: > # this means to ignore newlines until "baseurl:"
-  Created with jekyll.
+  Designed & Coded by Jalinder with jekyll.
   Hosted on github.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jalindr.github.io/" # the base hostname & protocol for your site
