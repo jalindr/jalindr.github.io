@@ -148,7 +148,7 @@ pre {
  */
 .site-header {
   width: 100%;
-  position: fixed; 
+  position: fixed;
   ;}
   .site-header > .wrapper {
     background: #fff;
@@ -161,7 +161,7 @@ pre {
 
 .site-title {
   font-size: 25px;
-  font-weight: 300;
+  font-weight: bold;
   line-height: 110px;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -377,7 +377,7 @@ pre {
   .paginator > .next_page {
     float: left; }
   .paginator > .prev_page {
-    float: right; } 
+    float: right; }
 /**
  * Posts
  */
@@ -388,7 +388,7 @@ pre {
   font-size: 26px;
   text-align: left;
   letter-spacing: -1px;
-  
+
   line-height: 1;
   margin-top: 30px;
   margin-bottom: 5px; }
@@ -560,7 +560,7 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
-	
+
 	.smallcap {
     text-transform: lowercase;
     font-variant: small-caps;
@@ -641,21 +641,21 @@ hr {
   border-top: 1px solid #b1cef4;
   margin: 2rem auto; }
 
-  
-  /* 
+
+  /*
 	image to color css
   */
-  
+
   .bwWrapper {
     position:relative;
     display:block;
 }
 
 
-/* 
+/*
 		jalinder
  */
- 
+
  .contacticon {
   font-size: 60px;
   display: block;
