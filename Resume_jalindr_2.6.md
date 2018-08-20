@@ -4,6 +4,13 @@ title: Resume
 permalink: /Resume/
 ---
 
+<object data="/JalinderResume.pdf" width="1000" height="1000" type='application/pdf'/>
+
+
+
+JalinderResume.pdf	
+
+
 #### *mail:* [*Jalind3r@gmail.com*](mailto:Jalind3r@gmail.com)*, web:* [*Jalindr.github.io*](https://github.com/jalindr) *call: [9773797147](https://github.com/jalindr)*
 
 **Experience Summary**
